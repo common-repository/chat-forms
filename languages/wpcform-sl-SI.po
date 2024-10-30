@@ -1,0 +1,945 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Google Form\n"
+"POT-Creation-Date: 2017-01-24 19:48+0000\n"
+"PO-Revision-Date: 2017-01-24 19:48+0000\n"
+"Last-Translator: Mike Walsh <mpwalsh8@gmail.com>\n"
+"Language-Team: Mike Walsh (@mpwalsh8) <mpwalsh8@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wpcform-core.php:180 ../wpcform-post-type.php:568
+#: ../wpcform-post-type.php:572 ../wpcform-post-type.php:573
+#, fuzzy
+msgid "Required"
+msgstr "Potrebno"
+
+#: ../wpcform-core.php:181 ../wpcform-post-type.php:581
+#: ../wpcform-post-type.php:582
+#, fuzzy
+msgid "Submit"
+msgstr "Podnesi"
+
+#: ../wpcform-core.php:182 ../wpcform-post-type.php:590
+#: ../wpcform-post-type.php:591
+#, fuzzy
+msgid "Back"
+msgstr "Nazad"
+
+#: ../wpcform-core.php:183 ../wpcform-post-type.php:599
+#: ../wpcform-post-type.php:600
+#, fuzzy
+msgid "Continue"
+msgstr "Nastavi"
+
+#: ../wpcform-core.php:184 ../wpcform-post-type.php:608
+#: ../wpcform-post-type.php:609 ../wpcform-post-type.php:626
+#, fuzzy
+msgid "Mark only one oval."
+msgstr "Označiti samo jedan oval."
+
+#: ../wpcform-core.php:185 ../wpcform-post-type.php:617
+#: ../wpcform-post-type.php:618
+#, fuzzy
+msgid "Other:"
+msgstr "Ostalo:"
+
+#: ../wpcform-core.php:186 ../wpcform-post-type.php:627
+#, fuzzy
+msgid "Check all that apply."
+msgstr "Proveriti sve iznad."
+
+#: ../wpcform-core.php:253
+#, fuzzy
+msgid "Reset"
+msgstr "Resetuj"
+
+#: ../wpcform-core.php:272 ../wpcform-core.php:273 ../wpcform-post-type.php:46
+#, fuzzy
+msgid "Google Forms"
+msgstr "Google Forms"
+
+#: ../wpcform-core.php:281
+#, fuzzy
+msgid "Google Forms Submission Log"
+msgstr "Google Forms podneti Log"
+
+#: ../wpcform-core.php:282
+#, fuzzy
+msgid "Form Submission Log"
+msgstr " Forma podnetog loga"
+
+#: ../wpcform-core.php:497 ../wpcform-core.php:513
+#, fuzzy
+msgid "Unable to process Google Form short code."
+msgstr "Nemoguće je  procesovati  Google Form short code."
+
+#: ../wpcform-core.php:684
+#, fuzzy
+msgid "Unable to process Google Form."
+msgstr "Nemoguće je  procesovati Google Form."
+
+#: ../wpcform-core.php:685
+#, fuzzy
+msgid "Server is responding with"
+msgstr "Server odgovara sa"
+
+#: ../wpcform-core.php:686
+#, fuzzy
+msgid "403 Permission Denied"
+msgstr "403 dozvola odbijena"
+
+#: ../wpcform-core.php:686
+#, fuzzy
+msgid "error"
+msgstr "greška"
+
+#: ../wpcform-core.php:736
+#, fuzzy
+msgid "Email Address"
+msgstr "Email Adresa"
+
+#: ../wpcform-core.php:786 ../wpcform-core.php:788
+#, fuzzy
+msgid "What is"
+msgstr "Šta je"
+
+#: ../wpcform-core.php:942
+#, fuzzy
+msgid "Unable to retrieve Google Form.  Please try reloading this page."
+msgstr "Nemoguće je povratiti Google Form. Reloadujte ovu stranicu"
+
+#: ../wpcform-core.php:1087
+#, fuzzy
+msgid "Unexpected content encountered, unable to retrieve Google Form."
+msgstr "Neščekivani sadržaj se pojavio, nemoguće je  povratiti Google Form."
+
+#: ../wpcform-core.php:1277
+#, fuzzy
+msgid "A valid email address is required."
+msgstr "Validna email adresa je neophodna."
+
+#: ../wpcform-core.php:1296
+#, fuzzy
+msgid "Incorrect answer."
+msgstr "Netačan odgovor."
+
+#: ../wpcform-core.php:1356
+msgid "Please check your input."
+msgstr ""
+
+#: ../wpcform-core.php:1432 ../wpcform-core.php:1704
+#, fuzzy
+msgid "Unknown"
+msgstr "Nepoznato"
+
+#: ../wpcform-core.php:1650
+#, fuzzy
+msgid "Warning:  You are using an insecure browser!"
+msgstr "Upozorenje: Koristite nesiguran pretraživač!"
+
+#: ../wpcform-core.php:1653
+#, fuzzy
+msgid "Warning:  Your browser is out of date!  Please update now."
+msgstr "Upozorenje: Vaš pretraživač je istekao! Updateujte ga sada."
+
+#: ../wpcform-core.php:1669
+#, fuzzy
+msgid "Form Id:"
+msgstr "Form Id:"
+
+#: ../wpcform-core.php:1671
+#, fuzzy
+msgid "Submitted Form Id"
+msgstr "Podneta Form Id"
+
+#: ../wpcform-core.php:1674
+#, fuzzy
+msgid "No Submitted Form Id"
+msgstr "Nema podnete Form Id"
+
+#: ../wpcform-core.php:1788
+msgid ""
+"Google Form submit action does not resolve to <b>drive.google.com</b>.  Form "
+"submission aborted."
+msgstr ""
+
+#: ../wpcform-core.php:1918
+#, fuzzy
+msgid "Unable to submit Google Form.  Please try reloading this page."
+msgstr "Niste u stanju da podnesete Google Form. Reloadujte stranicu."
+
+#: ../wpcform-core.php:2001
+#, fuzzy
+msgid "View Form Results"
+msgstr "Pregledaj rezultate formi"
+
+#: ../wpcform-core.php:2051
+#, fuzzy
+msgid "A form was submitted on your web site."
+msgstr "Forma je podneta na vašem sajtu.   "
+
+#: ../wpcform-core.php:2052 ../wpcform-core.php:2064
+#, fuzzy
+msgid "Form"
+msgstr "Forma"
+
+#: ../wpcform-core.php:2053 ../wpcform-core.php:2065 ../wpcform-logging.php:182
+#, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#: ../wpcform-core.php:2054 ../wpcform-core.php:2066
+#, fuzzy
+msgid "Responses"
+msgstr "Odgovori"
+
+#: ../wpcform-core.php:2055 ../wpcform-core.php:2067
+#, fuzzy
+msgid "Date"
+msgstr "Podaci"
+
+#: ../wpcform-core.php:2056 ../wpcform-core.php:2068
+#, fuzzy
+msgid "Time"
+msgstr "Vreme"
+
+#: ../wpcform-core.php:2057 ../wpcform-core.php:2070
+#, fuzzy
+msgid "Thank you"
+msgstr "Hvala vam"
+
+#: ../wpcform-core.php:2063
+#, fuzzy
+msgid "A form was submitted on your web site"
+msgstr "Forma je podneta na vašem sajtu"
+
+#: ../wpcform-core.php:2230
+#, fuzzy
+msgid "This field is required."
+msgstr "Ovo polje je obavezno.."
+
+#: ../wpcform-core.php:2231
+#, fuzzy
+msgid "Please fix this field."
+msgstr "Podesite ovo polje."
+
+#: ../wpcform-core.php:2232
+#, fuzzy
+msgid "Please enter a valid email address."
+msgstr "Unesite validnu email adresu."
+
+#: ../wpcform-core.php:2233
+#, fuzzy
+msgid "Please enter a valid URL."
+msgstr "Unesite validan URL."
+
+#: ../wpcform-core.php:2234
+#, fuzzy
+msgid "Please enter a valid date."
+msgstr "Unesite validan datum."
+
+#: ../wpcform-core.php:2235
+#, fuzzy
+msgid "Please enter a valid date (ISO)."
+msgstr "Unesite validan datum (ISO)."
+
+#: ../wpcform-core.php:2236
+#, fuzzy
+msgid "Please enter a valid number."
+msgstr "Unesite validan broj."
+
+#: ../wpcform-core.php:2237
+#, fuzzy
+msgid "Please enter only digits."
+msgstr "Samo unesite cifre."
+
+#: ../wpcform-core.php:2238
+#, fuzzy
+msgid "Please enter a valid credit card number."
+msgstr "Unesite validan broj kreditne kartice"
+
+#: ../wpcform-core.php:2239
+#, fuzzy
+msgid "Please enter the same value again.,"
+msgstr "Unesite istu vrednost opet.,"
+
+#: ../wpcform-core.php:2240
+#, fuzzy
+msgid "Please enter a value with a valid extension."
+msgstr "Unesite vrednost sa validnim produžetkom."
+
+#: ../wpcform-core.php:2241
+#, fuzzy
+msgid "Please enter no more than {0} characters."
+msgstr "Please enter no more than {0} characters."
+
+#: ../wpcform-core.php:2242
+#, fuzzy
+msgid "Please enter at least {0} characters."
+msgstr "Unesite najmanje {0} karaktera"
+
+#: ../wpcform-core.php:2243
+#, fuzzy
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Unesite vrednost izmedju {0} i {1} karaktera"
+
+#: ../wpcform-core.php:2244
+#, fuzzy
+msgid "Please enter a value between {0} and {1}."
+msgstr "Uneti vrednost izmedju  {0} i {1}."
+
+#: ../wpcform-core.php:2245
+#, fuzzy
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Unesite vrednost manju od ili jednaku {0}."
+
+#: ../wpcform-core.php:2246
+#, fuzzy
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Unesite vrednost veću od ili jednaku {0}."
+
+#: ../wpcform-core.php:2247
+msgid "Please enter a value which matches {0}."
+msgstr ""
+
+#: ../wpcform-core.php:2324
+#, fuzzy, php-format
+msgid ""
+"This notification may be hidden via a setting on the <a href=\"%s\">Google "
+"Forms settings page</a>."
+msgstr ""
+"Ova notifikacija može da bude skrivena via postavkama na <a href=\"%s"
+"\">Google Forms stranica postavki</a>."
+
+#: ../wpcform-logging.php:30
+#, fuzzy
+msgid "You are not allowed to view the submission log."
+msgstr "Nije vam dozvoljeno da pregledate podneti log."
+
+#: ../wpcform-logging.php:181
+#, fuzzy
+msgid "Timestamp"
+msgstr "Timestamp"
+
+#: ../wpcform-logging.php:183
+#, fuzzy
+msgid "Remote Addr"
+msgstr "Upravni Addr"
+
+#: ../wpcform-logging.php:184
+#, fuzzy
+msgid "Remote Host"
+msgstr "Upravni Host"
+
+#: ../wpcform-logging.php:185
+#, fuzzy
+msgid "HTTP Refer"
+msgstr "HTTP Refer"
+
+#: ../wpcform-logging.php:186
+#, fuzzy
+msgid "HTTP User Agent"
+msgstr "HTTP User Agent"
+
+#: ../wpcform-logging.php:238
+#, fuzzy
+msgid "Delete"
+msgstr "Obrisati"
+
+#: ../wpcform-logging.php:298
+#, fuzzy
+msgid "No log entries selected"
+msgstr "Nijedan log nije unešen"
+
+#: ../wpcform-options.php:94
+#, fuzzy, php-format
+msgid ""
+"Please consider making a <a href=\"%s\" target=\"_blank\">PayPal donation</a> "
+"if you find this plugin useful."
+msgstr ""
+"Razmislite o davanju <a href=\"%s\" target=\"_blank\">PayPal donacije </a> "
+"ako vam se dopada plugin."
+
+#: ../wpcform-options.php:237
+#, fuzzy, php-format
+msgid "Custom %s CSS"
+msgstr "Custom %s CSS"
+
+#: ../wpcform-options.php:502
+#, fuzzy, php-format
+msgid ""
+"Enabling debug will collect data during the form rendering and processing "
+"process.<p>The data is added to the page footer but hidden with a link "
+"appearing above the form which can toggle the display of the debug data.  "
+"This data is useful when trying to understand why the plugin isn't operating "
+"as expected.</p><p>When debugging is enabled, specific transports employed by "
+"the <a href=\"%s\">WordPress HTTP API</a> can optionally be disabled.  While "
+"rarely required, disabling transports can be useful when the plugin is not "
+"communcating correctly with the Google Docs API.  <i>Extra care should be "
+"taken when disabling transports as other aspects of WordPress may not work "
+"correctly.</i>  The <a href=\"%s\">WordPress Core Control</a> plugin is "
+"recommended for advanced debugging of <a href=\"%s\">WordPress HTTP API "
+"issues.</a></p>"
+msgstr ""
+"Omogućavanje debuga će prikupljati podatke tokom formata renderovanje i "
+"procesa prerade . <p>Podaci se dodaju u footer ali sakriven sa linkom koji se "
+"pojavljuje iznad forme koja može da isključi prikaz podataka debuga . Ovaj "
+"podatak je koristan kada pokušavate da shvatite zašto plugin ne radi kako bi "
+"trebalo . < / P> Kada je omogućeno otklanjanje grešaka , specifični "
+"transporti su zaposleni <a href=\"%s\"> WordPress HTTP API < /> opcionalno "
+"može biti onemogućen . Dok retko potrebno , onemogućavanje transporta može "
+"biti korisno kada plugin ne komunicira pravilno sa Google API dokumenatima. "
+"<i> Dodatno treba voditi računa kada onemogućavanje transporta kao i ostale "
+"aspekte WordPress možda neće ispravno funkcionisati . < / i ><a href=\"%s\"> "
+"Joomla core Kontrola < / a> dodatak se preporučuje za napredno otklanjanje "
+"grešaka od <a href=\"%s\"> WordPress HTTP API pitanja . < / a> < / p >"
+
+#: ../wpcform-post-type.php:47
+#, fuzzy
+msgid "Google Form"
+msgstr "Google Form"
+
+#: ../wpcform-post-type.php:48 ../wpcform-post-type.php:49
+#, fuzzy
+msgid "Add New Google Form"
+msgstr "Dodati novu Google Form"
+
+#: ../wpcform-post-type.php:50
+#, fuzzy
+msgid "Edit Google Form"
+msgstr "Edituj Google Form"
+
+#: ../wpcform-post-type.php:51
+#, fuzzy
+msgid "New Google Form"
+msgstr "Nova Google Form"
+
+#: ../wpcform-post-type.php:52
+#, fuzzy
+msgid "View Google Form"
+msgstr "Pregledati Google Form"
+
+#: ../wpcform-post-type.php:53
+#, fuzzy
+msgid "Search Google Forms"
+msgstr "Pretraga Google Forms"
+
+#: ../wpcform-post-type.php:54
+#, fuzzy
+msgid "No Google Forms Found"
+msgstr "Nijedna Google Forms nije pronadjena "
+
+#: ../wpcform-post-type.php:55
+#, fuzzy
+msgid "No Google Forms Found In Trash"
+msgstr "Nijedna Google Forms nije pronadjena u Trash"
+
+#: ../wpcform-post-type.php:108
+#, fuzzy
+msgid "Google Form Details"
+msgstr "Google Form detalji"
+
+#: ../wpcform-post-type.php:114
+#, fuzzy
+msgid "Form URL"
+msgstr "Form URL"
+
+#: ../wpcform-post-type.php:115
+#, fuzzy
+msgid "The full URL to the published Google Form"
+msgstr "Ceo URLda objasni Google Form"
+
+#: ../wpcform-post-type.php:119
+#, fuzzy
+msgid "Google Form URL"
+msgstr "Google Form URL"
+
+#: ../wpcform-post-type.php:123
+#, fuzzy
+msgid "Confirm URL"
+msgstr "Potvrdi URL"
+
+#: ../wpcform-post-type.php:124
+#, fuzzy
+msgid "The full URL to the optional Confirmation Page"
+msgstr "Ceo URL za opcionalnu potvrdu stranice  "
+
+#: ../wpcform-post-type.php:128
+#, fuzzy
+msgid "Confirmation Page URL"
+msgstr " URL potvrda stranice  "
+
+#: ../wpcform-post-type.php:132
+#, fuzzy
+msgid "Style"
+msgstr "Stil"
+
+#: ../wpcform-post-type.php:133
+#, fuzzy
+msgid "Custom Confirmation Page Style"
+msgstr "Custom stil potvrda stranice"
+
+#: ../wpcform-post-type.php:141
+#, fuzzy
+msgid "Alert"
+msgstr "Opomena"
+
+#: ../wpcform-post-type.php:142
+#, fuzzy
+msgid "Javascript Alert Box message displayed upon submission"
+msgstr "Javascript Alert Box poruka prikazana na postavki"
+
+#: ../wpcform-post-type.php:146
+#, fuzzy
+msgid "Alert Message"
+msgstr "Poruka opomene "
+
+#: ../wpcform-post-type.php:150
+#, fuzzy
+msgid "Class"
+msgstr "Klasa"
+
+#: ../wpcform-post-type.php:151
+#, fuzzy
+msgid "CSS class(es) to add to the form's containing DIV"
+msgstr "CSS klas(e) za dodavanje formi koje sadrže DIV"
+
+#: ../wpcform-post-type.php:158
+#, fuzzy
+msgid "Email"
+msgstr "Email"
+
+#: ../wpcform-post-type.php:159
+#, fuzzy
+msgid "Send email upon form submission"
+msgstr "Poswlati email nad podnetom formom"
+
+#: ../wpcform-post-type.php:162 ../wpcform-post-type.php:189
+#: ../wpcform-post-type.php:237 ../wpcform-post-type.php:274
+#: ../wpcform-post-type.php:284 ../wpcform-post-type.php:294
+#: ../wpcform-post-type.php:304 ../wpcform-post-type.php:330
+#: ../wpcform-post-type.php:340 ../wpcform-post-type.php:350
+#: ../wpcform-post-type.php:380 ../wpcform-post-type.php:495
+#: ../wpcform-post-type.php:562
+msgid "On"
+msgstr ""
+
+#: ../wpcform-post-type.php:162 ../wpcform-post-type.php:189
+#: ../wpcform-post-type.php:237 ../wpcform-post-type.php:274
+#: ../wpcform-post-type.php:284 ../wpcform-post-type.php:294
+#: ../wpcform-post-type.php:304 ../wpcform-post-type.php:330
+#: ../wpcform-post-type.php:340 ../wpcform-post-type.php:350
+#: ../wpcform-post-type.php:380 ../wpcform-post-type.php:495
+#: ../wpcform-post-type.php:562
+#, fuzzy
+msgid "Off"
+msgstr "Ugašeno"
+
+#: ../wpcform-post-type.php:168
+#, fuzzy
+msgid "Send To"
+msgstr "Poslato na"
+
+#: ../wpcform-post-type.php:169
+#, fuzzy
+msgid "Email address send submission email to"
+msgstr "Email adresa slanja podnetog emaila na"
+
+#: ../wpcform-post-type.php:176
+#, fuzzy
+msgid "Form CSS"
+msgstr "Forma CSS"
+
+#: ../wpcform-post-type.php:177
+#, fuzzy
+msgid "Form specific CSS rules"
+msgstr "Forma odredjuje CSS pravila"
+
+#: ../wpcform-post-type.php:185
+#, fuzzy
+msgid "Form Caching"
+msgstr "Form Caching"
+
+#: ../wpcform-post-type.php:186
+#, fuzzy
+msgid "Enable Form Caching using Wordpress Transient API"
+msgstr "Omogućiti Form Caching korišćenje Wordpress Transient API"
+
+#: ../wpcform-post-type.php:195
+#, fuzzy
+msgid "Form Caching Timeout"
+msgstr "Form Caching Timeout"
+
+#: ../wpcform-post-type.php:196
+#, fuzzy
+msgid "How often will the forms reloaded (in minutes)"
+msgstr "Koliko često će se forme reloadovati  (u minutama)"
+
+#: ../wpcform-post-type.php:204
+#, fuzzy
+msgid "Reset Form Cache?"
+msgstr "Resetuj Form Cache?"
+
+#: ../wpcform-post-type.php:205
+#, fuzzy
+msgid "This will force reloading the form from Google Drive"
+msgstr "Ovo će prisiliti reloading forme sa Google Drive"
+
+#: ../wpcform-post-type.php:227
+#, fuzzy
+msgid "Google Form Options"
+msgstr "Google Form Opcije"
+
+#: ../wpcform-post-type.php:233 ../wpcform-post-type.php:234
+#, fuzzy
+msgid "CAPTCHA"
+msgstr "CAPTCHA"
+
+#: ../wpcform-post-type.php:243
+#, fuzzy
+msgid "Columns"
+msgstr "Kolone"
+
+#: ../wpcform-post-type.php:244
+#, fuzzy
+msgid "Split form into columns"
+msgstr "Podeli formu na kolone"
+
+#: ../wpcform-post-type.php:252
+msgid "Column Order"
+msgstr ""
+
+#: ../wpcform-post-type.php:253
+msgid "Order Columns Left to Right or Right to Left"
+msgstr ""
+
+#: ../wpcform-post-type.php:256
+msgid "Left-to-Right"
+msgstr ""
+
+#: ../wpcform-post-type.php:256
+msgid "Right-to-Left"
+msgstr ""
+
+#: ../wpcform-post-type.php:262
+msgid "Columnize Min Width"
+msgstr ""
+
+#: ../wpcform-post-type.php:263
+msgid "Minimum browser viewport width to columnize form (0 to ignore)"
+msgstr ""
+
+#: ../wpcform-post-type.php:270
+#, fuzzy
+msgid "Email End User"
+msgstr "Email krajnji korisnik"
+
+#: ../wpcform-post-type.php:271
+#, fuzzy
+msgid "Send email to end user upon form submission"
+msgstr "Pošalji mail da biste popunili podnetog korisnika"
+
+#: ../wpcform-post-type.php:280
+#, fuzzy
+msgid "Legal"
+msgstr "Legalno"
+
+#: ../wpcform-post-type.php:281
+#, fuzzy
+msgid "Google Legal Disclaimer"
+msgstr "Google Legal Disclaimer"
+
+#: ../wpcform-post-type.php:290
+#, fuzzy
+msgid "Read Only"
+msgstr "Pročitati samo"
+
+#: ../wpcform-post-type.php:291
+#, fuzzy
+msgid "Set the form Read Only"
+msgstr "Namestiti formu na Pročitati samo"
+
+#: ../wpcform-post-type.php:300
+#, fuzzy
+msgid "BR"
+msgstr "BR"
+
+#: ../wpcform-post-type.php:301
+#, fuzzy
+msgid "Insert &lt;BR&gt; tags between labels and input box"
+msgstr "Uneti &lt;BR&gt; tagove izmedju oznaka i input box"
+
+#: ../wpcform-post-type.php:310
+#, fuzzy
+msgid "CSS Prefix"
+msgstr "CSS Prefix"
+
+#: ../wpcform-post-type.php:311
+#, fuzzy
+msgid "Prefix to add to all Google CSS classes"
+msgstr "Prefix da doda sve Google CSS klase"
+
+#: ../wpcform-post-type.php:318
+#, fuzzy
+msgid "CSS Suffix"
+msgstr "CSS Suffix"
+
+#: ../wpcform-post-type.php:319
+#, fuzzy
+msgid "Suffix to add to all Google CSS classes"
+msgstr "Suffix da doda sve Google CSS klase"
+
+#: ../wpcform-post-type.php:326
+#, fuzzy
+msgid "Title"
+msgstr "Naslov"
+
+#: ../wpcform-post-type.php:327
+#, fuzzy
+msgid "Show or Hide the Google Form's title"
+msgstr "Prikazati ili sakriti naslov Google Formi"
+
+#: ../wpcform-post-type.php:336
+#, fuzzy
+msgid "Map H1 to H2"
+msgstr "Mapirati  H1 za H2"
+
+#: ../wpcform-post-type.php:337
+#, fuzzy
+msgid "Map H1 elements to H2 elements"
+msgstr "Mapirati H1 elementi za H2 elemente"
+
+#: ../wpcform-post-type.php:346 ../wpcform-post-type.php:347
+#, fuzzy
+msgid "Unite Theme Hack"
+msgstr "Jedinica Hack teme"
+
+#: ../wpcform-post-type.php:370
+#, fuzzy
+msgid "Google Form Field Validation"
+msgstr "Google Form polje validacije"
+
+#: ../wpcform-post-type.php:376
+#, fuzzy
+msgid "Validation"
+msgstr "Validacija"
+
+#: ../wpcform-post-type.php:377
+#, fuzzy
+msgid "Enable default jQuery Validation on all required fields"
+msgstr "Omogući default jQuery validaciju na zahtevanim poljima"
+
+#: ../wpcform-post-type.php:386 ../wpcform-post-type.php:453
+#: ../wpcform-post-type.php:501
+#, fuzzy
+msgid "Form Fields"
+msgstr "Forme polja"
+
+#: ../wpcform-post-type.php:387
+#, fuzzy
+msgid ""
+"Name of the field on the Google Form (e.g. entry.1.single, entry.12345678, "
+"etc.) - <a href=\"http://jqueryvalidation.org/rules\">Additional details on "
+"jQuery Rules</a>"
+msgstr ""
+"Ime na polju na Google Form  (npr. unos.1.jedan, unos.12345678, itd.) - <a "
+"href=\"http://jqueryvalidation.org/rules\">Dodatni detalji jQuery Rules</a>"
+
+#: ../wpcform-post-type.php:416 ../wpcform-post-type.php:522
+#: ../wpcform-post-type.php:812 ../wpcform-post-type.php:834
+#, fuzzy
+msgid "Type"
+msgstr "Tip"
+
+#: ../wpcform-post-type.php:417
+#, fuzzy
+msgid "Type of validation"
+msgstr "Tip validacije"
+
+#: ../wpcform-post-type.php:424 ../wpcform-post-type.php:463
+#: ../wpcform-post-type.php:530 ../wpcform-post-type.php:821
+#: ../wpcform-post-type.php:823 ../wpcform-post-type.php:843
+#: ../wpcform-post-type.php:845
+#, fuzzy
+msgid "Value"
+msgstr "Vrednost"
+
+#: ../wpcform-post-type.php:425 ../wpcform-post-type.php:464
+#, fuzzy
+msgid "Value to validate against"
+msgstr "Vrednost za validaciju protiv"
+
+#: ../wpcform-post-type.php:447
+#, fuzzy
+msgid "Google Form Field Placeholder"
+msgstr "Google Form Field Placeholder"
+
+#: ../wpcform-post-type.php:454
+#, fuzzy
+msgid ""
+"Name of the field on the Google Form (e.g. entry.1.single, entry.12345678, "
+"etc.) - <a href=\"http://www.w3schools.com/tags/att_input_placeholder.asp"
+"\">Additional details on Placeholders</a>"
+msgstr ""
+"Ime polja na Google Form  (npr. unos.1.jedan, unos.12345678, itd.) - <a href="
+"\"http://www.w3schools.com/tags/att_input_placeholder.asp\">Dodatni detalji "
+"Placeholders</a>"
+
+#: ../wpcform-post-type.php:485
+#, fuzzy
+msgid "Google Form Hidden Fields"
+msgstr "Google Form skrivena polja"
+
+#: ../wpcform-post-type.php:491
+#, fuzzy
+msgid "Hidden Fields"
+msgstr "Skrivena polja"
+
+#: ../wpcform-post-type.php:492
+#, fuzzy
+msgid "Configure hidden fields"
+msgstr "Konfigurisati skriveno polje"
+
+#: ../wpcform-post-type.php:502
+#, fuzzy
+msgid ""
+"Name of the field on the Google Form (e.g. entry.1.single, entry.12345678, "
+"etc.).  The optional value is only used for fields of type <b><i>value</i></"
+"b>, <b><i>url</i></b>, and <b><i>timestamp</i></b>.  For all other field "
+"types WordPress will set the hidden input to a system derived value."
+msgstr ""
+"Ime polja u Google Form (npr. unos.1.jedan, unos.12345678, itd.). Ova "
+"opcionalna vrednost se koristi samo za tipove polja <b><i>vrednost</i></b>, "
+"<b><i>url</i></b>, and <b><i>timestamp</i></b>.Za sve druge tipove polja "
+"WordPress će namestiti skriveni input za odredjenu vrednost."
+
+#: ../wpcform-post-type.php:523
+#, fuzzy
+msgid "Type of hiddenfield"
+msgstr "Tip skrivenog polja"
+
+#: ../wpcform-post-type.php:531
+#, fuzzy
+msgid "Optional value to use as a preset"
+msgstr "Opcionalna vrednost da se koristi kao preset"
+
+#: ../wpcform-post-type.php:552
+msgid "Google Form Default Text Overrides"
+msgstr ""
+
+#: ../wpcform-post-type.php:558
+msgid "Override"
+msgstr ""
+
+#: ../wpcform-post-type.php:559
+msgid "Override <i><b>Google Default Text</b></i>"
+msgstr ""
+
+#: ../wpcform-post-type.php:569
+msgid "This is text that indicates a field is required."
+msgstr ""
+
+#: ../wpcform-post-type.php:577
+msgid "Submit Button"
+msgstr ""
+
+#: ../wpcform-post-type.php:578
+msgid "This is text used for the Submit button."
+msgstr ""
+
+#: ../wpcform-post-type.php:586
+msgid "Back Button"
+msgstr ""
+
+#: ../wpcform-post-type.php:587
+msgid "This is text used for the Back button."
+msgstr ""
+
+#: ../wpcform-post-type.php:595
+msgid "Continue Button"
+msgstr ""
+
+#: ../wpcform-post-type.php:596
+msgid "This is text used for the Continue button."
+msgstr ""
+
+#: ../wpcform-post-type.php:604
+msgid "Radio Buttons"
+msgstr ""
+
+#: ../wpcform-post-type.php:605
+msgid "This is text used for the Radio Buttons hint."
+msgstr ""
+
+#: ../wpcform-post-type.php:613
+msgid "Radio Buttons - Other"
+msgstr ""
+
+#: ../wpcform-post-type.php:614
+msgid "This is text used for the Radio Buttons Other option."
+msgstr ""
+
+#: ../wpcform-post-type.php:622
+msgid "Check Boxes"
+msgstr ""
+
+#: ../wpcform-post-type.php:623
+msgid "This is text used for the Check Boxes hint."
+msgstr ""
+
+#: ../wpcform-post-type.php:808
+#, fuzzy
+msgid "Name"
+msgstr "Ime"
+
+#: ../wpcform-post-type.php:812 ../wpcform-post-type.php:834
+#, fuzzy
+msgid "Check"
+msgstr "Proveri"
+
+#: ../wpcform-post-type.php:831
+#, fuzzy
+msgid "Field"
+msgstr "Polje"
+
+#: ../wpcform-post-type.php:1034
+msgid ""
+"<p>Google Form does not contain expected HTML.  Google Forms must be "
+"downgraded in order to work with this plugin.</p><p>More details can be found "
+"<a href=\"https://support.google.com/docs/answer/6281888?hl=en\">here</a> "
+"under the <b><i>Opt out of the new Forms</i></b> section.</p>"
+msgstr ""
+
+#: ../wpcform-post-type.php:1071
+#, fuzzy
+msgid "Form Name"
+msgstr "Ime forme"
+
+#: ../wpcform-post-type.php:1076
+#, fuzzy
+msgid "Short Code"
+msgstr "Short Code"
+
+#: ../wpcform-post-type.php:1077
+#, fuzzy
+msgid "Form Description"
+msgstr "Opis forme"
+
+#: ../wpcform-post-type.php:1168
+#, fuzzy
+msgid "Enter WordPress Google Form Title"
+msgstr "Uneti  WordPress Google Form naslov"
+
+#: ../wpcform-post-type.php:126
+#, fuzzy
+msgid "Form URL"
+msgstr "XXX"

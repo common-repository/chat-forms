@@ -1,0 +1,827 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Google Form\n"
+"POT-Creation-Date: 2017-01-24 19:48+0000\n"
+"PO-Revision-Date: 2017-01-24 19:48+0000\n"
+"Last-Translator: Mike Walsh <mpwalsh8@gmail.com>\n"
+"Language-Team: Mike Walsh (@mpwalsh8) <mpwalsh8@gmail.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wpcform-core.php:180 ../wpcform-post-type.php:568
+#: ../wpcform-post-type.php:572 ../wpcform-post-type.php:573
+msgid "Required"
+msgstr "Obligatorio"
+
+#: ../wpcform-core.php:181 ../wpcform-post-type.php:581
+#: ../wpcform-post-type.php:582
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../wpcform-core.php:182 ../wpcform-post-type.php:590
+#: ../wpcform-post-type.php:591
+msgid "Back"
+msgstr "Volver"
+
+#: ../wpcform-core.php:183 ../wpcform-post-type.php:599
+#: ../wpcform-post-type.php:600
+msgid "Continue"
+msgstr "Continuar"
+
+#: ../wpcform-core.php:184 ../wpcform-post-type.php:608
+#: ../wpcform-post-type.php:609 ../wpcform-post-type.php:626
+msgid "Mark only one oval."
+msgstr "Selecciona sólo una marca."
+
+#: ../wpcform-core.php:185 ../wpcform-post-type.php:617
+#: ../wpcform-post-type.php:618
+msgid "Other:"
+msgstr "Otros:"
+
+#: ../wpcform-core.php:186 ../wpcform-post-type.php:627
+msgid "Check all that apply."
+msgstr "Selecciona todos los que apliquen."
+
+#: ../wpcform-core.php:253
+msgid "Reset"
+msgstr ""
+
+#: ../wpcform-core.php:272 ../wpcform-core.php:273 ../wpcform-post-type.php:46
+msgid "Google Forms"
+msgstr "Formularios de Google"
+
+#: ../wpcform-core.php:281
+#, fuzzy
+msgid "Google Forms Submission Log"
+msgstr "Formularios de Google"
+
+#: ../wpcform-core.php:282
+#, fuzzy
+msgid "Form Submission Log"
+msgstr "No tienes permiso para ver el log de respuestas."
+
+#: ../wpcform-core.php:497 ../wpcform-core.php:513
+msgid "Unable to process Google Form short code."
+msgstr "Error al procesar el shortcode del Formulario de Google."
+
+#: ../wpcform-core.php:684
+msgid "Unable to process Google Form."
+msgstr "Error al procesar el Formulario de Google"
+
+#: ../wpcform-core.php:685
+msgid "Server is responding with"
+msgstr "El servidor responde con"
+
+#: ../wpcform-core.php:686
+msgid "403 Permission Denied"
+msgstr "403 Acceso denegado"
+
+#: ../wpcform-core.php:686
+msgid "error"
+msgstr "error"
+
+#: ../wpcform-core.php:736
+msgid "Email Address"
+msgstr "Dirección de correo"
+
+#: ../wpcform-core.php:786 ../wpcform-core.php:788
+msgid "What is"
+msgstr ""
+
+#: ../wpcform-core.php:942
+msgid "Unable to retrieve Google Form.  Please try reloading this page."
+msgstr ""
+"Error al cargar el Formulario de Google. Por favor inténtalo nuevamente "
+"recargando la página."
+
+#: ../wpcform-core.php:1087
+msgid "Unexpected content encountered, unable to retrieve Google Form."
+msgstr ""
+"Error al cargar el Formulario de Google: se encontró contenido no esperado."
+
+#: ../wpcform-core.php:1277
+msgid "A valid email address is required."
+msgstr "Se requiere una dirección de correo válida."
+
+#: ../wpcform-core.php:1296
+msgid "Incorrect answer."
+msgstr "Respuesta incorrecta."
+
+#: ../wpcform-core.php:1356
+msgid "Please check your input."
+msgstr ""
+
+#: ../wpcform-core.php:1432 ../wpcform-core.php:1704
+msgid "Unknown"
+msgstr ""
+
+#: ../wpcform-core.php:1650
+msgid "Warning:  You are using an insecure browser!"
+msgstr "Advertencia: Estás ocupando un navegador no seguro!"
+
+#: ../wpcform-core.php:1653
+msgid "Warning:  Your browser is out of date!  Please update now."
+msgstr "Advertencia: Tu navegador está obsoleto. Por favor actualízalo ahora."
+
+#: ../wpcform-core.php:1669
+msgid "Form Id:"
+msgstr "Id del Formulario:"
+
+#: ../wpcform-core.php:1671
+msgid "Submitted Form Id"
+msgstr "Id de la respuesta al Formulario"
+
+#: ../wpcform-core.php:1674
+msgid "No Submitted Form Id"
+msgstr "No se envió un ID de Formulario"
+
+#: ../wpcform-core.php:1788
+msgid ""
+"Google Form submit action does not resolve to <b>drive.google.com</b>.  Form "
+"submission aborted."
+msgstr ""
+
+#: ../wpcform-core.php:1918
+msgid "Unable to submit Google Form.  Please try reloading this page."
+msgstr ""
+"Error al enviar la información del Formulario Google. Por favor inténtalo "
+"nuevamente recargando esta página."
+
+#: ../wpcform-core.php:2001
+msgid "View Form Results"
+msgstr "Ver los resultados a los formularios"
+
+#: ../wpcform-core.php:2051
+msgid "A form was submitted on your web site."
+msgstr "Han respondido un formulario en tu sitio web."
+
+#: ../wpcform-core.php:2052 ../wpcform-core.php:2064
+msgid "Form"
+msgstr "Formulario"
+
+#: ../wpcform-core.php:2053 ../wpcform-core.php:2065 ../wpcform-logging.php:182
+msgid "URL"
+msgstr "URL"
+
+#: ../wpcform-core.php:2054 ../wpcform-core.php:2066
+msgid "Responses"
+msgstr "Respuestas"
+
+#: ../wpcform-core.php:2055 ../wpcform-core.php:2067
+msgid "Date"
+msgstr "Fecha"
+
+#: ../wpcform-core.php:2056 ../wpcform-core.php:2068
+msgid "Time"
+msgstr "Hora"
+
+#: ../wpcform-core.php:2057 ../wpcform-core.php:2070
+msgid "Thank you"
+msgstr "Gracias"
+
+#: ../wpcform-core.php:2063
+msgid "A form was submitted on your web site"
+msgstr "Han respondido un formulario en tu sitio web"
+
+#: ../wpcform-core.php:2230
+msgid "This field is required."
+msgstr "Este campo es obligatorio."
+
+#: ../wpcform-core.php:2231
+msgid "Please fix this field."
+msgstr "Por favor arregla este campo."
+
+#: ../wpcform-core.php:2232
+msgid "Please enter a valid email address."
+msgstr "Por favor ingresa una dirección de correo válida."
+
+#: ../wpcform-core.php:2233
+msgid "Please enter a valid URL."
+msgstr "Por favor ingresa una URL válida."
+
+#: ../wpcform-core.php:2234
+msgid "Please enter a valid date."
+msgstr "Por favor ingresa una fecha válida."
+
+#: ../wpcform-core.php:2235
+msgid "Please enter a valid date (ISO)."
+msgstr "Por favor ingresa una fecha válida (ISO)."
+
+#: ../wpcform-core.php:2236
+msgid "Please enter a valid number."
+msgstr "Por favor ingresa un número válido."
+
+#: ../wpcform-core.php:2237
+msgid "Please enter only digits."
+msgstr "Por favor ingresa sólo números."
+
+#: ../wpcform-core.php:2238
+msgid "Please enter a valid credit card number."
+msgstr "Por favor ingresa un número de tarjeta de crédito válido."
+
+#: ../wpcform-core.php:2239
+msgid "Please enter the same value again.,"
+msgstr "Por favor ingresa el mismo valor nuevamente."
+
+#: ../wpcform-core.php:2240
+msgid "Please enter a value with a valid extension."
+msgstr "Por favor ingresa un valor con una extensión válida."
+
+#: ../wpcform-core.php:2241
+msgid "Please enter no more than {0} characters."
+msgstr "Por favor ingresa no mas de {0} caracteres."
+
+#: ../wpcform-core.php:2242
+msgid "Please enter at least {0} characters."
+msgstr "Por favor ingresa al menos {0} caracteres."
+
+#: ../wpcform-core.php:2243
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Por favor ingresa al menos entre {0} y {1} caracteres."
+
+#: ../wpcform-core.php:2244
+msgid "Please enter a value between {0} and {1}."
+msgstr "Por favor ingresa un número entre {0} y {1}."
+
+#: ../wpcform-core.php:2245
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Por favor ingresa un valor menor o igual a {0}."
+
+#: ../wpcform-core.php:2246
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Por favor ingresa un valor mayor o igual a {0}."
+
+#: ../wpcform-core.php:2247
+#, fuzzy
+msgid "Please enter a value which matches {0}."
+msgstr "Por favor ingresa un número entre {0} y {1}."
+
+#: ../wpcform-core.php:2324
+#, fuzzy, php-format
+msgid ""
+"This notification may be hidden via a setting on the <a href=\"%s\">Google "
+"Forms settings page</a>."
+msgstr "Formularios de Google"
+
+#: ../wpcform-logging.php:30
+msgid "You are not allowed to view the submission log."
+msgstr "No tienes permiso para ver el log de respuestas."
+
+#: ../wpcform-logging.php:181
+msgid "Timestamp"
+msgstr "Fecha"
+
+#: ../wpcform-logging.php:183
+msgid "Remote Addr"
+msgstr "Dirección remota"
+
+#: ../wpcform-logging.php:184
+msgid "Remote Host"
+msgstr "Servidor remoto"
+
+#: ../wpcform-logging.php:185
+msgid "HTTP Refer"
+msgstr "Referencia HTTP"
+
+#: ../wpcform-logging.php:186
+msgid "HTTP User Agent"
+msgstr "Navegador HTTP"
+
+#: ../wpcform-logging.php:238
+msgid "Delete"
+msgstr "Borrar"
+
+#: ../wpcform-logging.php:298
+msgid "No log entries selected"
+msgstr "No se han seleccionado entradas del log"
+
+#: ../wpcform-options.php:94
+#, php-format
+msgid ""
+"Please consider making a <a href=\"%s\" target=\"_blank\">PayPal donation</"
+"a> if you find this plugin useful."
+msgstr ""
+"Por favor considera hacer una <a href=\"%s\" target=\"_blank\">donación por "
+"PayPal</a> si te ha servido este plugin."
+
+#: ../wpcform-options.php:237
+#, php-format
+msgid "Custom %s CSS"
+msgstr "CSS personalizado %s"
+
+#: ../wpcform-options.php:502
+#, fuzzy, php-format
+msgid ""
+"Enabling debug will collect data during the form rendering and processing "
+"process.<p>The data is added to the page footer but hidden with a link "
+"appearing above the form which can toggle the display of the debug data.  "
+"This data is useful when trying to understand why the plugin isn't operating "
+"as expected.</p><p>When debugging is enabled, specific transports employed "
+"by the <a href=\"%s\">WordPress HTTP API</a> can optionally be disabled.  "
+"While rarely required, disabling transports can be useful when the plugin is "
+"not communcating correctly with the Google Docs API.  <i>Extra care should "
+"be taken when disabling transports as other aspects of WordPress may not "
+"work correctly.</i>  The <a href=\"%s\">WordPress Core Control</a> plugin is "
+"recommended for advanced debugging of <a href=\"%s\">WordPress HTTP API "
+"issues.</a></p>"
+msgstr ""
+"Por favor considera hacer una <a href=\"%s\" target=\"_blank\">donación por "
+"PayPal</a> si te ha servido este plugin."
+
+#: ../wpcform-post-type.php:47
+#, fuzzy
+msgid "Google Form"
+msgstr "La URL completa al Formulario Google publicado"
+
+#: ../wpcform-post-type.php:48 ../wpcform-post-type.php:49
+#, fuzzy
+msgid "Add New Google Form"
+msgstr "Error al procesar el Formulario de Google"
+
+#: ../wpcform-post-type.php:50
+#, fuzzy
+msgid "Edit Google Form"
+msgstr "Error al procesar el Formulario de Google"
+
+#: ../wpcform-post-type.php:51
+#, fuzzy
+msgid "New Google Form"
+msgstr "Error al procesar el Formulario de Google"
+
+#: ../wpcform-post-type.php:52
+#, fuzzy
+msgid "View Google Form"
+msgstr "Ver los resultados a los formularios"
+
+#: ../wpcform-post-type.php:53
+#, fuzzy
+msgid "Search Google Forms"
+msgstr "Formularios de Google"
+
+#: ../wpcform-post-type.php:54
+#, fuzzy
+msgid "No Google Forms Found"
+msgstr "Formularios de Google"
+
+#: ../wpcform-post-type.php:55
+#, fuzzy
+msgid "No Google Forms Found In Trash"
+msgstr "Formularios de Google"
+
+#: ../wpcform-post-type.php:108
+#, fuzzy
+msgid "Google Form Details"
+msgstr "Error al procesar el Formulario de Google"
+
+#: ../wpcform-post-type.php:114
+msgid "Form URL"
+msgstr "URL del formulario"
+
+#: ../wpcform-post-type.php:115
+msgid "The full URL to the published Google Form"
+msgstr "La URL completa al Formulario Google publicado"
+
+#: ../wpcform-post-type.php:119
+#, fuzzy
+msgid "Google Form URL"
+msgstr "La URL completa al Formulario Google publicado"
+
+#: ../wpcform-post-type.php:123
+msgid "Confirm URL"
+msgstr "URL de confirmación"
+
+#: ../wpcform-post-type.php:124
+msgid "The full URL to the optional Confirmation Page"
+msgstr "El URL completo a la página de confirmación (opcional)"
+
+#: ../wpcform-post-type.php:128
+#, fuzzy
+msgid "Confirmation Page URL"
+msgstr "El URL completo a la página de confirmación (opcional)"
+
+#: ../wpcform-post-type.php:132
+msgid "Style"
+msgstr "Estilo"
+
+#: ../wpcform-post-type.php:133
+msgid "Custom Confirmation Page Style"
+msgstr "Estilo personalizado para la página de confirmación"
+
+#: ../wpcform-post-type.php:141
+msgid "Alert"
+msgstr "Aviso"
+
+#: ../wpcform-post-type.php:142
+msgid "Javascript Alert Box message displayed upon submission"
+msgstr ""
+"Mensaje en la ventana de aviso JavaScript a mostrar con el envío de "
+"información"
+
+#: ../wpcform-post-type.php:146
+#, fuzzy
+msgid "Alert Message"
+msgstr ""
+"Mensaje en la ventana de aviso JavaScript a mostrar con el envío de "
+"información"
+
+#: ../wpcform-post-type.php:150
+msgid "Class"
+msgstr "Clase"
+
+#: ../wpcform-post-type.php:151
+msgid "CSS class(es) to add to the form's containing DIV"
+msgstr "Clase(s) CSS a agregar al DIV que contiene el formulario"
+
+#: ../wpcform-post-type.php:158
+msgid "Email"
+msgstr "Correo"
+
+#: ../wpcform-post-type.php:159
+msgid "Send email upon form submission"
+msgstr "Enviar email al registrar respuestas del formulario"
+
+#: ../wpcform-post-type.php:162 ../wpcform-post-type.php:189
+#: ../wpcform-post-type.php:237 ../wpcform-post-type.php:274
+#: ../wpcform-post-type.php:284 ../wpcform-post-type.php:294
+#: ../wpcform-post-type.php:304 ../wpcform-post-type.php:330
+#: ../wpcform-post-type.php:340 ../wpcform-post-type.php:350
+#: ../wpcform-post-type.php:380 ../wpcform-post-type.php:495
+#: ../wpcform-post-type.php:562
+msgid "On"
+msgstr ""
+
+#: ../wpcform-post-type.php:162 ../wpcform-post-type.php:189
+#: ../wpcform-post-type.php:237 ../wpcform-post-type.php:274
+#: ../wpcform-post-type.php:284 ../wpcform-post-type.php:294
+#: ../wpcform-post-type.php:304 ../wpcform-post-type.php:330
+#: ../wpcform-post-type.php:340 ../wpcform-post-type.php:350
+#: ../wpcform-post-type.php:380 ../wpcform-post-type.php:495
+#: ../wpcform-post-type.php:562
+#, fuzzy
+msgid "Off"
+msgstr "Desactivado"
+
+#: ../wpcform-post-type.php:168
+msgid "Send To"
+msgstr "Enviar a"
+
+#: ../wpcform-post-type.php:169
+msgid "Email address send submission email to"
+msgstr "Dirección a la cual enviar los correos "
+
+#: ../wpcform-post-type.php:176
+msgid "Form CSS"
+msgstr "CSS del formulario"
+
+#: ../wpcform-post-type.php:177
+msgid "Form specific CSS rules"
+msgstr "Reglas CSS específicas para el formulario"
+
+#: ../wpcform-post-type.php:185
+#, fuzzy
+msgid "Form Caching"
+msgstr "Formulario"
+
+#: ../wpcform-post-type.php:186
+#, fuzzy
+msgid "Enable Form Caching using Wordpress Transient API"
+msgstr "Ingresa el nombre para el formulario en Wordpress"
+
+#: ../wpcform-post-type.php:195
+#, fuzzy
+msgid "Form Caching Timeout"
+msgstr "Formulario"
+
+#: ../wpcform-post-type.php:196
+#, fuzzy
+msgid "How often will the forms reloaded (in minutes)"
+msgstr "Formularios de Google"
+
+#: ../wpcform-post-type.php:204
+#, fuzzy
+msgid "Reset Form Cache?"
+msgstr "Formulario"
+
+#: ../wpcform-post-type.php:205
+#, fuzzy
+msgid "This will force reloading the form from Google Drive"
+msgstr ""
+"Error al cargar el Formulario de Google. Por favor inténtalo nuevamente "
+"recargando la página."
+
+#: ../wpcform-post-type.php:227
+#, fuzzy
+msgid "Google Form Options"
+msgstr "Error al procesar el Formulario de Google"
+
+#: ../wpcform-post-type.php:233 ../wpcform-post-type.php:234
+msgid "CAPTCHA"
+msgstr "CAPTCHA"
+
+#: ../wpcform-post-type.php:243
+msgid "Columns"
+msgstr "Columnas"
+
+#: ../wpcform-post-type.php:244
+msgid "Split form into columns"
+msgstr "Dividir el formulario en columnas"
+
+#: ../wpcform-post-type.php:252
+#, fuzzy
+msgid "Column Order"
+msgstr "Columnas"
+
+#: ../wpcform-post-type.php:253
+msgid "Order Columns Left to Right or Right to Left"
+msgstr ""
+
+#: ../wpcform-post-type.php:256
+msgid "Left-to-Right"
+msgstr ""
+
+#: ../wpcform-post-type.php:256
+msgid "Right-to-Left"
+msgstr ""
+
+#: ../wpcform-post-type.php:262
+msgid "Columnize Min Width"
+msgstr ""
+
+#: ../wpcform-post-type.php:263
+msgid "Minimum browser viewport width to columnize form (0 to ignore)"
+msgstr ""
+
+#: ../wpcform-post-type.php:270
+msgid "Email End User"
+msgstr "Correo para el usuario"
+
+#: ../wpcform-post-type.php:271
+msgid "Send email to end user upon form submission"
+msgstr "Enviar correo al usuario final al registrar respuesta del formulario"
+
+#: ../wpcform-post-type.php:280
+msgid "Legal"
+msgstr "Texto legal"
+
+#: ../wpcform-post-type.php:281
+msgid "Google Legal Disclaimer"
+msgstr "Mostrar renuncia legal de Google"
+
+#: ../wpcform-post-type.php:290
+msgid "Read Only"
+msgstr "Sólo lectura"
+
+#: ../wpcform-post-type.php:291
+msgid "Set the form Read Only"
+msgstr "Dejar el formulario como de sólo lectura"
+
+#: ../wpcform-post-type.php:300
+msgid "BR"
+msgstr "BR"
+
+#: ../wpcform-post-type.php:301
+msgid "Insert &lt;BR&gt; tags between labels and input box"
+msgstr "Agregar etiquetas &lt;BR&gt; entre las etiquetas y los campos de datos"
+
+#: ../wpcform-post-type.php:310
+msgid "CSS Prefix"
+msgstr "Prefijo CSS"
+
+#: ../wpcform-post-type.php:311
+msgid "Prefix to add to all Google CSS classes"
+msgstr "Prefijo a agregar a todas las clases CSS de Google"
+
+#: ../wpcform-post-type.php:318
+msgid "CSS Suffix"
+msgstr "Sufijo CSS"
+
+#: ../wpcform-post-type.php:319
+msgid "Suffix to add to all Google CSS classes"
+msgstr "Sufijo a agregar a todas las clases CSS de Google"
+
+#: ../wpcform-post-type.php:326
+msgid "Title"
+msgstr "Nombre"
+
+#: ../wpcform-post-type.php:327
+msgid "Show or Hide the Google Form's title"
+msgstr "Mostrar u ocultar el nombre del Formulario"
+
+#: ../wpcform-post-type.php:336
+msgid "Map H1 to H2"
+msgstr "Mapear H1 a H2"
+
+#: ../wpcform-post-type.php:337
+msgid "Map H1 elements to H2 elements"
+msgstr "Cambiar tipo de etiqueta de elementos H1 a H2"
+
+#: ../wpcform-post-type.php:346 ../wpcform-post-type.php:347
+msgid "Unite Theme Hack"
+msgstr "Hack para tema Unite"
+
+#: ../wpcform-post-type.php:370
+#, fuzzy
+msgid "Google Form Field Validation"
+msgstr "Error al procesar el Formulario de Google"
+
+#: ../wpcform-post-type.php:376
+msgid "Validation"
+msgstr "Validación"
+
+#: ../wpcform-post-type.php:377
+msgid "Enable default jQuery Validation on all required fields"
+msgstr ""
+"Habiliar validación jQuery por defecto en todos los campos obligatorios"
+
+#: ../wpcform-post-type.php:386 ../wpcform-post-type.php:453
+#: ../wpcform-post-type.php:501
+msgid "Form Fields"
+msgstr "Campos del formulario"
+
+#: ../wpcform-post-type.php:387
+#, fuzzy
+msgid ""
+"Name of the field on the Google Form (e.g. entry.1.single, entry.12345678, "
+"etc.) - <a href=\"http://jqueryvalidation.org/rules\">Additional details on "
+"jQuery Rules</a>"
+msgstr "Reglas CSS específicas para el formulario"
+
+#: ../wpcform-post-type.php:416 ../wpcform-post-type.php:522
+#: ../wpcform-post-type.php:812 ../wpcform-post-type.php:834
+msgid "Type"
+msgstr "Tipo"
+
+#: ../wpcform-post-type.php:417
+msgid "Type of validation"
+msgstr "Tipo de validación"
+
+#: ../wpcform-post-type.php:424 ../wpcform-post-type.php:463
+#: ../wpcform-post-type.php:530 ../wpcform-post-type.php:821
+#: ../wpcform-post-type.php:823 ../wpcform-post-type.php:843
+#: ../wpcform-post-type.php:845
+msgid "Value"
+msgstr "Valor"
+
+#: ../wpcform-post-type.php:425 ../wpcform-post-type.php:464
+msgid "Value to validate against"
+msgstr "Valor contra el cual validar"
+
+#: ../wpcform-post-type.php:447
+#, fuzzy
+msgid "Google Form Field Placeholder"
+msgstr "Error al procesar el Formulario de Google"
+
+#: ../wpcform-post-type.php:454
+#, fuzzy
+msgid ""
+"Name of the field on the Google Form (e.g. entry.1.single, entry.12345678, "
+"etc.) - <a href=\"http://www.w3schools.com/tags/att_input_placeholder.asp"
+"\">Additional details on Placeholders</a>"
+msgstr "Agregar etiquetas &lt;BR&gt; entre las etiquetas y los campos de datos"
+
+#: ../wpcform-post-type.php:485
+#, fuzzy
+msgid "Google Form Hidden Fields"
+msgstr "Campos del formulario"
+
+#: ../wpcform-post-type.php:491
+#, fuzzy
+msgid "Hidden Fields"
+msgstr "Campos del formulario"
+
+#: ../wpcform-post-type.php:492
+#, fuzzy
+msgid "Configure hidden fields"
+msgstr "Campos del formulario"
+
+#: ../wpcform-post-type.php:502
+#, fuzzy
+msgid ""
+"Name of the field on the Google Form (e.g. entry.1.single, entry.12345678, "
+"etc.).  The optional value is only used for fields of type <b><i>value</i></"
+"b>, <b><i>url</i></b>, and <b><i>timestamp</i></b>.  For all other field "
+"types WordPress will set the hidden input to a system derived value."
+msgstr "Valor"
+
+#: ../wpcform-post-type.php:523
+#, fuzzy
+msgid "Type of hiddenfield"
+msgstr "Tipo"
+
+#: ../wpcform-post-type.php:531
+#, fuzzy
+msgid "Optional value to use as a preset"
+msgstr "Valor"
+
+#: ../wpcform-post-type.php:552
+#, fuzzy
+msgid "Google Form Default Text Overrides"
+msgstr "Error al procesar el Formulario de Google"
+
+#: ../wpcform-post-type.php:558
+#, fuzzy
+msgid "Override"
+msgstr "Del correo del remitente<br/>Sustituir dirección"
+
+#: ../wpcform-post-type.php:559
+msgid "Override <i><b>Google Default Text</b></i>"
+msgstr ""
+
+#: ../wpcform-post-type.php:569
+#, fuzzy
+msgid "This is text that indicates a field is required."
+msgstr "Este campo es obligatorio."
+
+#: ../wpcform-post-type.php:577
+#, fuzzy
+msgid "Submit Button"
+msgstr "Enviar"
+
+#: ../wpcform-post-type.php:578
+msgid "This is text used for the Submit button."
+msgstr ""
+
+#: ../wpcform-post-type.php:586
+msgid "Back Button"
+msgstr ""
+
+#: ../wpcform-post-type.php:587
+msgid "This is text used for the Back button."
+msgstr ""
+
+#: ../wpcform-post-type.php:595
+#, fuzzy
+msgid "Continue Button"
+msgstr "Continuar"
+
+#: ../wpcform-post-type.php:596
+msgid "This is text used for the Continue button."
+msgstr ""
+
+#: ../wpcform-post-type.php:604
+msgid "Radio Buttons"
+msgstr ""
+
+#: ../wpcform-post-type.php:605
+msgid "This is text used for the Radio Buttons hint."
+msgstr ""
+
+#: ../wpcform-post-type.php:613
+msgid "Radio Buttons - Other"
+msgstr ""
+
+#: ../wpcform-post-type.php:614
+msgid "This is text used for the Radio Buttons Other option."
+msgstr ""
+
+#: ../wpcform-post-type.php:622
+#, fuzzy
+msgid "Check Boxes"
+msgstr "Selecciona todos los que apliquen."
+
+#: ../wpcform-post-type.php:623
+msgid "This is text used for the Check Boxes hint."
+msgstr ""
+
+#: ../wpcform-post-type.php:808
+msgid "Name"
+msgstr "Nombre"
+
+#: ../wpcform-post-type.php:812 ../wpcform-post-type.php:834
+#, fuzzy
+msgid "Check"
+msgstr "Verificación de wp_mail() de Email Users"
+
+#: ../wpcform-post-type.php:831
+msgid "Field"
+msgstr "Campo"
+
+#: ../wpcform-post-type.php:1034
+msgid ""
+"<p>Google Form does not contain expected HTML.  Google Forms must be "
+"downgraded in order to work with this plugin.</p><p>More details can be "
+"found <a href=\"https://support.google.com/docs/answer/6281888?hl=en\">here</"
+"a> under the <b><i>Opt out of the new Forms</i></b> section.</p>"
+msgstr ""
+
+#: ../wpcform-post-type.php:1071
+msgid "Form Name"
+msgstr "Nombre"
+
+#: ../wpcform-post-type.php:1076
+msgid "Short Code"
+msgstr "Shortcode"
+
+#: ../wpcform-post-type.php:1077
+msgid "Form Description"
+msgstr "Descripción"
+
+#: ../wpcform-post-type.php:1168
+msgid "Enter WordPress Google Form Title"
+msgstr "Ingresa el nombre para el formulario en Wordpress"

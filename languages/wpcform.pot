@@ -1,0 +1,542 @@
+# Copyright (C) 2019 Yiftach Haramati
+# This file is distributed under the same license as the Chat Forms plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Chat Forms 0.01\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpcform-master\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-09-25T07:14:24-07:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.3.0\n"
+
+#. Plugin Name of the plugin
+#: wpcform-core.php:318
+#: wpcform-core.php:319
+#: wpcform-post-type.php:46
+msgid "Chat Forms"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://chat-forms.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds embedded Chat Forms to a WordPress website directly into your posts, pages or sidebar."
+msgstr ""
+
+#. Author of the plugin
+msgid "Yiftach Haramati"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.inter-act.io"
+msgstr ""
+
+#: wpcform-core.php:226
+msgid "Required"
+msgstr ""
+
+#: wpcform-core.php:227
+msgid "Submit"
+msgstr ""
+
+#: wpcform-core.php:228
+msgid "Back"
+msgstr ""
+
+#: wpcform-core.php:229
+msgid "Continue"
+msgstr ""
+
+#: wpcform-core.php:230
+msgid "Mark only one oval."
+msgstr ""
+
+#: wpcform-core.php:231
+msgid "Other:"
+msgstr ""
+
+#: wpcform-core.php:232
+msgid "Check all that apply."
+msgstr ""
+
+#: wpcform-core.php:299
+#: wpcform-options.php:120
+msgid "Reset"
+msgstr ""
+
+#: wpcform-core.php:327
+msgid "Chat Forms Submission Log"
+msgstr ""
+
+#: wpcform-core.php:328
+msgid "Form Submission Log"
+msgstr ""
+
+#: wpcform-core.php:533
+#: wpcform-core.php:549
+msgid "Unable to process Chat Form short code."
+msgstr ""
+
+#: wpcform-core.php:711
+msgid "No Chat ID found!"
+msgstr ""
+
+#: wpcform-core.php:838
+msgid "This field is required."
+msgstr ""
+
+#: wpcform-core.php:839
+msgid "Please fix this field."
+msgstr ""
+
+#: wpcform-core.php:840
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: wpcform-core.php:841
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: wpcform-core.php:842
+msgid "Please enter a valid date."
+msgstr ""
+
+#: wpcform-core.php:843
+msgid "Please enter a valid date (ISO)."
+msgstr ""
+
+#: wpcform-core.php:844
+msgid "Please enter a valid number."
+msgstr ""
+
+#: wpcform-core.php:845
+msgid "Please enter only digits."
+msgstr ""
+
+#: wpcform-core.php:846
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: wpcform-core.php:847
+msgid "Please enter the same value again.,"
+msgstr ""
+
+#: wpcform-core.php:848
+msgid "Please enter a value with a valid extension."
+msgstr ""
+
+#: wpcform-core.php:849
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: wpcform-core.php:850
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: wpcform-core.php:851
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: wpcform-core.php:852
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: wpcform-core.php:853
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: wpcform-core.php:854
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: wpcform-core.php:855
+msgid "Please enter a value which matches {0}."
+msgstr ""
+
+#: wpcform-core.php:927
+msgid "The <a href=\"http://codex.wordpress.org/HTTP_API\">WordPress HTTP API</a> cURL transport was not detected.  The Chat Forms plugin may not operate correctly."
+msgstr ""
+
+#: wpcform-core.php:932
+msgid "This notification may be hidden via a setting on the <a href=\"%s\">Chat Forms settings page</a>."
+msgstr ""
+
+#: wpcform-core.php:955
+msgid "Google has announced plans to <a href=\"https://gsuiteupdates.googleblog.com/2018/07/migration-to-new-google-forms-ui_19.html\">remove the Google Forms downgrade option</a>.  The <a href=\"https://wordpress.org/plugins/wpcform/\">Google Forms plugin</a> may no longer work after August 22, 2018.  The <a href=\"https://wordpress.org/plugins/wpcform/\">Google Forms plugin</a> does not work with the new version of Google Forms."
+msgstr ""
+
+#: wpcform-logging.php:30
+msgid "You are not allowed to view the submission log."
+msgstr ""
+
+#: wpcform-logging.php:182
+msgid "Timestamp"
+msgstr ""
+
+#: wpcform-logging.php:183
+msgid "URL"
+msgstr ""
+
+#: wpcform-logging.php:184
+msgid "Remote Addr"
+msgstr ""
+
+#: wpcform-logging.php:185
+msgid "Remote Host"
+msgstr ""
+
+#: wpcform-logging.php:186
+msgid "HTTP Refer"
+msgstr ""
+
+#: wpcform-logging.php:187
+msgid "HTTP User Agent"
+msgstr ""
+
+#: wpcform-logging.php:239
+msgid "Delete"
+msgstr ""
+
+#: wpcform-logging.php:299
+msgid "No log entries selected"
+msgstr ""
+
+#: wpcform-options.php:89
+msgid "WordPress Chat Form Plugin Settings"
+msgstr ""
+
+#: wpcform-options.php:94
+msgid "Please consider making a <a href=\"%s\" target=\"_blank\">PayPal donation</a> if you find this plugin useful."
+msgstr ""
+
+#: wpcform-options.php:102
+msgid "Options"
+msgstr ""
+
+#: wpcform-options.php:103
+msgid "Advanced Options"
+msgstr ""
+
+#: wpcform-options.php:104
+msgid "FAQs"
+msgstr ""
+
+#: wpcform-options.php:105
+msgid "Usage"
+msgstr ""
+
+#: wpcform-options.php:106
+msgid "About"
+msgstr ""
+
+#: wpcform-options.php:112
+#: wpcform-options.php:119
+msgid "Save Changes"
+msgstr ""
+
+#: wpcform-options.php:143
+msgid "Unable to retrive FAQ content from WordPress plugin repository."
+msgstr ""
+
+#: wpcform-options.php:155
+msgid "Unable to retrive Usage content from WordPress plugin repository."
+msgstr ""
+
+#: wpcform-options.php:163
+msgid "About WordPress Chat Form"
+msgstr ""
+
+#: wpcform-options.php:165
+msgid "Make a Donation"
+msgstr ""
+
+#: wpcform-options.php:172
+msgid "Plugin's Home Page"
+msgstr ""
+
+#: wpcform-options.php:185
+msgid "An easy to implement integration of a Chat Form with WordPress. This plugin allows you to leverage the power of Google Docs Spreadsheets and Forms to collect data while retaining the look and feel of your WordPress based web site and the Interface of a Chat."
+msgstr ""
+
+#: wpcform-options.php:213
+msgid "Enable shortcodes for posts and pages"
+msgstr ""
+
+#: wpcform-options.php:217
+msgid "Enable shortcodes in text widget"
+msgstr ""
+
+#: wpcform-options.php:227
+msgid "Enable default WordPress Chat Form CSS"
+msgstr ""
+
+#: wpcform-options.php:231
+msgid "Enable custom WordPress Chat Form CSS"
+msgstr ""
+
+#: wpcform-options.php:236
+msgid "Custom %s CSS"
+msgstr ""
+
+#: wpcform-options.php:236
+msgid "Optional CSS styles to control the appearance of the Chat Form."
+msgstr ""
+
+#: wpcform-options.php:242
+msgid "Confirmation<br />Email Format"
+msgstr ""
+
+#: wpcform-options.php:247
+msgid "Send confirmation email (when used) in HTML format."
+msgstr ""
+
+#: wpcform-options.php:250
+msgid "Send confirmation email (when used) in Plain Text format."
+msgstr ""
+
+#: wpcform-options.php:254
+msgid "Bcc Blog Admin on Confirmation Email (when used)"
+msgstr ""
+
+#: wpcform-options.php:259
+msgid "cURL Transport<br />Notification"
+msgstr ""
+
+#: wpcform-options.php:269
+msgid "Hide the cURL Transport Missing notification message.<br /><small>The cURL transport is critical for proper operation of the Chat Forms plugin.</small>"
+msgstr ""
+
+#: wpcform-options.php:278
+msgid "Donation Request"
+msgstr ""
+
+#: wpcform-options.php:288
+msgid "Hide the request for donation at the top of this page.<br/><small>The donation request will remain on the <b>About</b> tab.</small>"
+msgstr ""
+
+#: wpcform-options.php:331
+msgid "Disable HTML Filtering"
+msgstr ""
+
+#: wpcform-options.php:341
+msgid "Disable HTML Filtering?<br/><small>Chat Forms filters HTML retrieved from Google using <a href=\"https://codex.wordpress.org/Function_Reference/wp_kses\">wp_kses()</a> to eliminate unnecessary HTML code.</small>"
+msgstr ""
+
+#: wpcform-options.php:350
+msgid "Enable Form Submission Logging"
+msgstr ""
+
+#: wpcform-options.php:360
+msgid "Log WordPress Chat Form Submissions?<br/><small>Form submissions can be logged which will track a number of client related metrics upon form submission.</small>"
+msgstr ""
+
+#: wpcform-options.php:369
+msgid "HTTP API Timeout"
+msgstr ""
+
+#: wpcform-options.php:383
+msgid "Change the default HTTP API Timeout setting (default is 5 seconds)."
+msgstr ""
+
+#: wpcform-options.php:388
+msgid "Browser Check"
+msgstr ""
+
+#: wpcform-options.php:398
+msgid "Check browser compatibility?<br/><small>The WordPress Chat Form plugin may not work as expected with older browser versions (e.g. IE6, IE7, etc.).</small>"
+msgstr ""
+
+#: wpcform-options.php:407
+msgid "Enable Debug"
+msgstr ""
+
+#: wpcform-options.php:417
+msgid "Enabling debug will collect data during the form rendering and processing process.<p>The data is added to the page footer but hidden with a link appearing above the form which can toggle the display of the debug data.  This data is useful when trying to understand why the plugin isn't operating as expected.</p><p>When debugging is enabled, specific transports employed by the <a href=\"%s\">WordPress HTTP API</a> can optionally be disabled.  While rarely required, disabling transports can be useful when the plugin is not communcating correctly with the Google Docs API.  <i>Extra care should be taken when disabling transports as other aspects of WordPress may not work correctly.</i>  The <a href=\"%s\">WordPress Core Control</a> plugin is recommended for advanced debugging of <a href=\"%s\">WordPress HTTP API issues.</a></p>"
+msgstr ""
+
+#: wpcform-options.php:426
+msgid "WordPress HTTP API<br/>Transport Control"
+msgstr ""
+
+#: wpcform-options.php:431
+msgid "Disable <i><b>FSockOpen</b></i> Transport"
+msgstr ""
+
+#: wpcform-options.php:435
+msgid "Disable <i><b>Streams</b></i> Transport"
+msgstr ""
+
+#: wpcform-options.php:439
+msgid "Disable <i><b>cURL</b></i> Transport"
+msgstr ""
+
+#: wpcform-options.php:443
+msgid "Disable <i><b>SSL Verify</b></i>"
+msgstr ""
+
+#: wpcform-options.php:447
+msgid "Disable <i><b>Local SSL Verify</b></i>"
+msgstr ""
+
+#: wpcform-options.php:452
+msgid "HTTP Request Timeout"
+msgstr ""
+
+#: wpcform-options.php:457
+msgid "Change <i><b>HTTP Request Timeout</b></i>"
+msgstr ""
+
+#: wpcform-options.php:461
+msgid "(in seconds)"
+msgstr ""
+
+#: wpcform-post-type.php:47
+msgid "Chat Form"
+msgstr ""
+
+#: wpcform-post-type.php:48
+#: wpcform-post-type.php:49
+msgid "Add New Chat Form"
+msgstr ""
+
+#: wpcform-post-type.php:50
+msgid "Edit Chat Form"
+msgstr ""
+
+#: wpcform-post-type.php:51
+msgid "New Chat Form"
+msgstr ""
+
+#: wpcform-post-type.php:52
+msgid "View Chat Form"
+msgstr ""
+
+#: wpcform-post-type.php:53
+msgid "Search Chat Forms"
+msgstr ""
+
+#: wpcform-post-type.php:54
+msgid "No Chat Forms Found"
+msgstr ""
+
+#: wpcform-post-type.php:55
+msgid "No Chat Forms Found In Trash"
+msgstr ""
+
+#: wpcform-post-type.php:121
+msgid "Chat Form Details"
+msgstr ""
+
+#: wpcform-post-type.php:127
+msgid "Form URL"
+msgstr ""
+
+#: wpcform-post-type.php:128
+msgid "The full URL to the published Google Form"
+msgstr ""
+
+#: wpcform-post-type.php:132
+msgid "Google Form URL"
+msgstr ""
+
+#: wpcform-post-type.php:137
+msgid "Language"
+msgstr ""
+
+#: wpcform-post-type.php:138
+msgid "Select your preferred chat language from the list"
+msgstr ""
+
+#: wpcform-post-type.php:174
+msgid "Notification"
+msgstr ""
+
+#: wpcform-post-type.php:180
+#: wpcform-post-type.php:220
+msgid "Enable"
+msgstr ""
+
+#: wpcform-post-type.php:181
+msgid "Enable Send notification Email before the chat expires"
+msgstr ""
+
+#: wpcform-post-type.php:184
+#: wpcform-post-type.php:224
+msgid "On"
+msgstr ""
+
+#: wpcform-post-type.php:184
+#: wpcform-post-type.php:224
+msgid "Off"
+msgstr ""
+
+#: wpcform-post-type.php:190
+#: wpcform-post-type.php:194
+#: wpcform-post-type.php:230
+#: wpcform-post-type.php:234
+msgid "Email"
+msgstr ""
+
+#: wpcform-post-type.php:191
+#: wpcform-post-type.php:231
+msgid "Emaill address to send conversation report to."
+msgstr ""
+
+#: wpcform-post-type.php:195
+#: wpcform-post-type.php:235
+msgid "example@domain.com"
+msgstr ""
+
+#: wpcform-post-type.php:214
+msgid "Reporting"
+msgstr ""
+
+#: wpcform-post-type.php:221
+msgid "Enable Send reporting Email after the chat expires"
+msgstr ""
+
+#: wpcform-post-type.php:392
+msgid "Name"
+msgstr ""
+
+#: wpcform-post-type.php:396
+#: wpcform-post-type.php:418
+msgid "Type"
+msgstr ""
+
+#: wpcform-post-type.php:396
+#: wpcform-post-type.php:418
+msgid "Check"
+msgstr ""
+
+#: wpcform-post-type.php:405
+#: wpcform-post-type.php:407
+#: wpcform-post-type.php:427
+#: wpcform-post-type.php:429
+msgid "Value"
+msgstr ""
+
+#: wpcform-post-type.php:415
+msgid "Field"
+msgstr ""
+
+#: wpcform-post-type.php:647
+msgid "Form Name"
+msgstr ""
+
+#: wpcform-post-type.php:652
+msgid "Short Code"
+msgstr ""
+
+#: wpcform-post-type.php:653
+msgid "Form Description"
+msgstr ""
+
+#: wpcform-post-type.php:750
+msgid "Enter WordPress Chat Form Title"
+msgstr ""

@@ -1,0 +1,62 @@
+/* vim: set expandtab tabstop=4 shiftwidth=4: */
+
+
+/**
+ * CSS declarations for Chat Forms - WordPress Dashboard
+ *
+ * These can be copied and modified to fit the needs of
+ * a theme.  By default the only change is to make all of
+ * the fields wider than their default width and to set the
+ * default font.
+ *
+ */
+
+
+/* Post Screen - 32px */
+
+.icon32-posts-wpcform {
+    background: url(../images/wp_chat_icon.svg) no-repeat left top !important;
+}
+
+#conversational-forms-generator {
+    float: left;
+    margin-right: 15px;
+}
+
+button.form-generator+.loading {
+    background: url(../images/loading.svg) no-repeat left center transparent;
+    display: none;
+    vertical-align: middle;
+    line-height: 30px;
+    margin-left: 0px;
+    float: left;
+    background-size: 28px;
+    padding-left: 33px;
+    color: #8BC34A;
+}
+
+div.gen-error-show,
+div.lang-error-show {
+    clear: both;
+    width: 100%;
+}
+
+div.gen-error-show span,
+div.lang-error-show span {
+    display: block;
+    padding-top: 15px;
+}
+
+div.gen-error-show span.success,
+div.lang-error-show span.success {
+    color: #8BC34A;
+}
+
+div.gen-error-show span.error,
+div.lang-error-show span.error {
+    color: #ff0000;
+}
+
+#select-language {
+    margin-left: 15px;
+}

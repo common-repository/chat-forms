@@ -1,0 +1,232 @@
+/* vim: set expandtab tabstop=4 shiftwidth=4: */
+
+
+/**
+ * CSS declarations for Chat Forms
+ *
+ * These can be copied and modified to fit the needs of
+ * a theme.  By default the only change is to make all of
+ * the fields wider than their default width and to set the
+ * default font.
+ */
+
+label.cform-error,
+label.wpcform-error {
+    float: right;
+    color: red;
+    font-weight: bold;
+}
+
+div.cform-browser-warning,
+div.cform-browser-error,
+div.wpcform-browser-warning,
+div.wpcform-browser-error {
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    border-width: 1px;
+    border-style: solid;
+    padding: 0 .6em;
+    margin: 5px 0 15px;
+}
+
+div.cform-browser-warning,
+div.wpcform-browser-warning {
+    background-color: #ffffe0;
+    border-color: #e6db55;
+}
+
+div.cform-google-error,
+div.cform-browser-error,
+div.wpcform-google-error,
+div.wpcform-browser-error {
+    background-color: #ffebe8;
+    border-color: #cc0000;
+}
+
+body.ss-base-body {}
+
+div.errorbox-good {}
+
+div.ss-attribution {}
+
+div.ss-footer {}
+
+div.ss-footer-txt,
+div.ss-logo {
+    display: none;
+}
+
+div.ss-form {}
+
+div.ss-form-container {
+    font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+div.ss-form-desc {}
+
+div.ss-form-entry {}
+
+div.ss-form-entry>input {
+    background-color: #e0e0e0;
+    font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+div.ss-form-heading {}
+
+div.ss-item {}
+
+div.ss-navigate {}
+
+div.ss-no-ignore-whitespace {
+    white-space: pre-wrap;
+}
+
+div.ss-required-asterisk {
+    color: red;
+    font-weight: bold;
+}
+
+div.ss-scale {}
+
+div.ss-text {}
+
+form#ss-form {}
+
+h1.ss-form-title {}
+
+hr.ss-email-break {}
+
+input.ss-q-short:text {
+    width: 300px;
+}
+
+label.ss-q-help {
+    display: block;
+}
+
+label.ss-q-radio {}
+
+label.ss-q-title {
+    font-weight: bold;
+}
+
+span.ss-powered-by {}
+
+span.ss-terms {}
+
+td.ss-gridnumber {}
+
+td.ss-gridnumbers {}
+
+td.ss-gridrow td.ss-gridrow-leftlabel td.ss-leftlabel {}
+
+td.ss-rightlabel {}
+
+td.ss-scalerow {}
+
+td.ss-scalenumber {}
+
+td.ss-scalenumbers {}
+
+textarea.ss-q-long {
+    background-color: #e0e0e0;
+    font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+tr.ss-gridrow {}
+
+
+/**
+ * New Chat Forms CSS 2013-04-30
+ */
+
+div.ss-form-container div.disclaimer {
+    display: none;
+}
+
+div.ss-q-help {}
+
+div.ss-secondary-text {}
+
+
+/*  This hides the "Never submit passwords through Chat Forms." warning. */
+
+td.ss-form-entry>div.ss-secondary-text {
+    display: none;
+}
+
+div.password-warning {
+    display: none;
+}
+
+div.ss-form-container li {
+    list-style-type: none;
+}
+
+
+/*  2013-06-04:  Hide "Edit this Form" link */
+
+a.ss-edit-link {
+    display: none;
+}
+
+
+/*  2013-06-06:  Hide help text for scales */
+
+div.aria-only-help {
+    display: none;
+}
+
+
+/* 2013-10-30:  Hide default error messages */
+
+div.error-message {
+    color: red;
+    /*display: none;*/
+}
+
+
+/* 2013-10-30:  Attempt to make text entry boxes a reasonable width */
+
+input.ss-q-short,
+textarea.ss-q-long {
+    width: auto;
+}
+
+
+/**  Hide the gunk that Google adds to make the table work **/
+
+td.hd,
+td.headerEnd,
+tr.rShim,
+td.sortBar {
+    display: none;
+    width: 0px !important;
+    padding: 0px !important;
+}
+
+
+/**  Empty selector but could be used to select all of the table cells **/
+
+tr.rShim td,
+tr.rShim~tr td {}
+
+
+/**  Hide the "powered" and "listview" DIVs that Google adds **/
+
+div div span.powered,
+div.listview {
+    display: none;
+}
+
+
+/** Hide the "This is a required question" message **/
+
+div.ss-form-container div.required-message {
+    display: none;
+}
+
+iframe.wpcform-ifm {
+    border: none;
+    max-height: calc(12 * (100vh / 12) - 28px);
+}
